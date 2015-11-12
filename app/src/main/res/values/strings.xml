@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BooGoogleSignIn</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_app_invite">App Invite</string>
+    <string name="invitation_title">Goo Invitation</string>
+    <string name="invitation_message">Welcome to GooSignIn App, this is an App Inivitation to play around with the new Google features. Thank you.</string>
+    <string name="invitation_deep_link">http://beaconprojects.co.za/</string>
+    <string name="invitation_custom_image">https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png</string>
+    <string name="invitation_cta">Install!</string>
+    <string name="deep_link_fmt" formatted="false">Deep Link: %s</string>
+    <string name="invitation_id_fmt" formatted="false">Invitation ID: %s</string>
+    <string name="sent_invitations_fmt" formatted="false">Sent %d invitations</string>
+    <string name="send_failed">Sending invitations failed</string>
+    <string name="invite_dialog_title">You got an invitation!</string>
+    <string name="validation_message" formatted="false">Validation URI with user token id: %s</string>
+    <string name="server_client_id">116034280837-hpo9vdk96bg9eb6k3tifpt1co58ijo18.apps.googleusercontent.com</string>
+    <string name="server_client_secret">0w4XmX7cZzmYq9HIYNr_ajhB</string>
+    <string name="server_uri">http://www.gootest.com</string>
+    <string name="server_validation_uri">https://www.googleapis.com/oauth2/v3/tokeninfo?id_token=</string>
+
+</resources>
