@@ -18,6 +18,8 @@
     <string name="server_client_secret">0w4XmX7cZzmYq9HIYNr_ajhB</string>
     <string name="server_uri">http://www.gootest.com</string>
     <string name="server_validation_uri">https://www.googleapis.com/oauth2/v3/tokeninfo?id_token=</string>
-    <string name="stripe_api_key">Stripe API Key goes here</string>
+    <!--<string name="stripe_api_key">Stripe API Key goes here</string>-->
 
+    <string name="stripe_publishable_key">pk_test_Z0zTFKBFbPkxtCuDfm7KaZLd</string>
+    <string name="stripe_secret_key">sk_test_0VrUurIhCKRZLjYyeDXP8gWN</string>
 </resources>
